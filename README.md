@@ -4,7 +4,7 @@
   <h3 align="center">A Zoom Clone</h3>
 
    <div align="center">
-     Hosted on vercel <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Hosted on vercel <a href="[https://www.youtube.com/@javascriptmastery/videos](https://shaunsvc-shaunfernandes84s-projects.vercel.app/sign-in?redirect_url=https%3A%2F%2Fshaunsvc-shaunfernandes84s-projects.vercel.app%2F)" target="_blank"><b>Shaun_VC</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
